@@ -1,0 +1,41 @@
+﻿  main.cpp
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\armLink.h(53,24): warning C4838: 从“double”转换到“float”需要收缩转换
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\armLink.h(53,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\armLink.h(53,30): warning C4838: 从“double”转换到“float”需要收缩转换
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\armLink.h(53,30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\armLink.h(59,28): warning C4838: 从“double”转换到“float”需要收缩转换
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\armLink.h(59,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\armLink.h(59,34): warning C4838: 从“double”转换到“float”需要收缩转换
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\armLink.h(59,34): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\armLink.h(66,29): warning C4838: 从“double”转换到“float”需要收缩转换
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\armLink.h(66,29): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\armLink.h(66,35): warning C4838: 从“double”转换到“float”需要收缩转换
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\armLink.h(66,35): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\EndEffector.h(37,20): warning C4244: “参数”: 从“double”转换到“GLubyte”，可能丢失数据
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\EndEffector.h(37,17): warning C4244: “参数”: 从“double”转换到“GLubyte”，可能丢失数据
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\EndEffector.h(37,14): warning C4244: “参数”: 从“double”转换到“GLubyte”，可能丢失数据
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\EndEffector.h(39,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\EndEffector.h(40,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\EndEffector.h(41,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\EndEffector.h(42,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\EndEffector.h(43,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Program Files\eigen-3.4.0\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\eigen-3.4.0\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\eigen-3.4.0\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\main.cpp(137,13): warning C4326: “main”的返回类型应为“int”而非“void”
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\main.cpp(175,40): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\main.cpp(177,40): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\main.cpp(179,40): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\main.cpp(271,42): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\main.cpp(278,42): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\main.cpp(284,42): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\main.cpp(290,42): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\main.cpp(296,42): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\main.cpp(302,42): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\main.cpp(318,42): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\main.cpp(324,42): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\main.cpp(403,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\main.cpp(182,17): warning C4101: “caculator”: 未引用的局部变量
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\main.cpp(163,6): warning C4101: “prevScreenX”: 未引用的局部变量
+F:\CMU2023-2024\24780\alphaGroupProject\eng_proj\main.cpp(163,19): warning C4101: “prevScreenY”: 未引用的局部变量
+  eng_proj.vcxproj -> F:\CMU2023-2024\24780\alphaGroupProject\x64\Debug\eng_proj.exe
